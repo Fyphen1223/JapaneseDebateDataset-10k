@@ -1,0 +1,59 @@
+# このワークフローは、japanese-debate-10k.jsonのデータエントリ数を自動的にカウントし、
+# README.mdの「currently X entries」を更新し、10,000件に対する進捗率を表示します。
+# 
+# This workflow automatically counts the data entries in japanese-debate-10k.json,
+# updates the "currently X entries" in README.md, and displays the progress percentage towards 10,000 entries.
+
+name: Update Dataset Count
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'japanese-debate-10k.json'
+  workflow_dispatch:
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Count entries and update README
+        run: |
+          # Count entries in JSON file
+          ENTRY_COUNT=$(jq '. | length' japanese-debate-10k.json)
+          
+          # Calculate percentage (10k is the target)
+          PERCENTAGE=$(echo "scale=2; $ENTRY_COUNT * 100 / 10000" | bc)
+          
+          echo "Current entries: $ENTRY_COUNT"
+          echo "Percentage of 10k goal: $PERCENTAGE%"
+          
+          # Update README.md - handle both with and without existing percentage
+          sed -i -E "s/currently [0-9]+ entries( \([0-9.]+%\))?/currently $ENTRY_COUNT entries ($PERCENTAGE%)/" README.md
+          
+          # Check if README was modified
+          if git diff --quiet README.md; then
+            echo "No changes to README.md"
+            echo "CHANGES_MADE=false" >> $GITHUB_ENV
+          else
+            echo "README.md updated"
+            echo "CHANGES_MADE=true" >> $GITHUB_ENV
+          fi
+      
+      - name: Commit and push changes
+        if: env.CHANGES_MADE == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update dataset count to $(jq '. | length' japanese-debate-10k.json) entries"
+          git push

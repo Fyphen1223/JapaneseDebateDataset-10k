@@ -1,3 +1,9 @@
+# このワークフローは、japanese-debate-10k.jsonのデータエントリ数を自動的にカウントし、
+# README.mdの「currently X entries」を更新し、10,000件に対する進捗率を表示します。
+# 
+# This workflow automatically counts the data entries in japanese-debate-10k.json,
+# updates the "currently X entries" in README.md, and displays the progress percentage towards 10,000 entries.
+
 name: Update Dataset Count
 
 on:

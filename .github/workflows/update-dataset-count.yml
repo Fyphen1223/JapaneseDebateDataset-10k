@@ -31,8 +31,8 @@ jobs:
           echo "Current entries: $ENTRY_COUNT"
           echo "Percentage of 10k goal: $PERCENTAGE%"
           
-          # Update README.md
-          sed -i "s/currently [0-9]* entries/currently $ENTRY_COUNT entries ($PERCENTAGE%)/" README.md
+          # Update README.md - handle both with and without existing percentage
+          sed -i -E "s/currently [0-9]+ entries( \([0-9.]+%\))?/currently $ENTRY_COUNT entries ($PERCENTAGE%)/" README.md
           
           # Check if README was modified
           if git diff --quiet README.md; then

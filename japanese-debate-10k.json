@@ -1246,5 +1246,809 @@
                 "value": "初めての大会参加は緊張するものです。以下の心構えを持って臨みましょう。\n\n**心構え**：\n\n1. **学ぶことが目的**：\n   - 勝敗より経験\n   - 失敗から学ぶ\n   - 完璧を求めない\n   - 楽しむことが大切\n\n2. **謙虚な姿勢**：\n   - 上級者から学ぶ\n   - アドバイスを素直に聞く\n   - 質問を恐れない\n\n3. **前向きな態度**：\n   - 「できないかも」より「やってみよう」\n   - 失敗しても次がある\n   - 小さな成功を喜ぶ\n\n**準備すべきこと**：\n\n1. **議論の準備**：\n   - ケースの確認\n   - ブリーフの整理\n   - パートナーとの打ち合わせ\n\n2. **物理的準備**：\n   - フローシート\n   - 筆記用具\n   - タイマー（許可されている場合）\n   - 水\n\n3. **スケジュールの確認**：\n   - 試合時間\n   - 会場の場所\n   - 移動時間の考慮\n\n**大会当日**：\n\n1. **早めに到着**：\n   - 会場の確認\n   - 雰囲気に慣れる\n   - 心の準備\n\n2. **他のチームと交流**：\n   - 挨拶をする\n   - 友達を作る\n   - 緊張をほぐす\n\n3. **他の試合を観戦**：\n   - 学ぶ機会\n   - 上級者の技術を見る\n   - 自分の試合の参考に\n\n**試合中**：\n\n1. **落ち着いて**：\n   - 深呼吸\n   - 準備したことを信じる\n   - 一つずつ取り組む\n\n2. **丁寧に**：\n   - 礼儀正しく\n   - 相手を尊重\n   - ジャッジに敬意を\n\n3. **全力を尽くす**：\n   - 最後まで諦めない\n   - ミスを恐れない\n   - 楽しむ\n\n**試合後**：\n\n1. **講評を真剣に聞く**：\n   - メモを取る\n   - 質問する\n   - 感謝を伝える\n\n2. **振り返り**：\n   - 良かった点\n   - 改善点\n   - 次への目標\n\n3. **相手に感謝**：\n   - 試合をしてくれたことへの感謝\n   - 握手や挨拶\n   - スポーツマンシップ\n\n**よくある初心者の不安**：\n\n**「負けたらどうしよう」**\n→ 初めての大会で負けるのは当然。経験が財産です。\n\n**「うまく話せない」**\n→ 最初は誰でもそうです。回数を重ねれば上達します。\n\n**「相手が強そう」**\n→ 相手も同じ人間。準備したことを出せば十分です。\n\n**「ジャッジが怖い」**\n→ ジャッジはあなたの成長を願っています。味方です。\n\n**成功の定義を変える**：\n\n初めての大会での「成功」とは：\n- 全ての試合を完走する\n- 一つでも学びを得る\n- 楽しかったと思える\n- 次も参加したいと思える\n\n勝敗ではなく、これらが達成できれば大成功です。\n\n**最後に**：\n\nディベートは競争でもありますが、コミュニティです。多くの人があなたの成長を応援しています。リラックスして、楽しんでください。\n\n「完璧なディベーターはいない。成長し続けるディベーターがいるだけだ」\n\n初めての大会を楽しんでください！"
             }
         ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "アタック・シートとはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "予想される推論に対し、相手側が効果的な反論をするためのポイント証拠や論拠を体系的に整理し、その攻防方法を試合前やディベートの最中に記す作戦用紙。\n"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "新しい議論の提示とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "「ニュー・アーギュメント」の項と同じ。\n直訳は「新しい議論」だが、ディベートでは、反駁や最終弁論に入ってからの新しい議論（立論では述べられなかった論点）を持ち出す反則を意味する。\nその時点だと、相手に再反論の機会がほとんど残されておらず、不公平なうえに議論が深まらないことから反則となり、その主張は無効となる。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "アンダービューとはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "個々の主要争点(stock issues)のそれぞれに対する細部分析のこと。overviewよりは掘り下げた(specific)分析といえる。\n"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "一見明白な(prima facie プリマ・ファキエ)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "語源は「at first sight（一見して）」という意味のラテン語。\nディベートでprima facie caseといえば「反論されるまでは正しいと推論される議論」を指す。つまり肯定側の立証責任である。\n①変革の必要性　need for a change(inherency,significance)\n②採択の必要性　need for the plan(wokability,solvency)\nが、立証された肯定側の推論のことをいう。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "一般化(generalization)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "induce（帰納）していくこと。つまり、「特殊」を「一般化」する過程。ディベートでは、dataとwarrantがそろって初めて成立するが、dataが少ないのでwarrantへの結びつけを急ぎすぎることをover generalizationという。「一般化のしすぎ」のことで、論証の飛躍のうちの１つであるといえる。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "一般正当化論\n(alternative justification case)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "２つ以上の（場合によっては互いに関連のない）正当な論旨を肯定論に含め立証する。いずれの論題解釈に基づく現状変革のプランも異なったadvantageをもたらすので、１つでも受け入れられれば肯定論が成立するとみなされる考え方をいう。その場合、個々の肯定論をmini-caseと呼び、alternative justification caseのことをmini-affirmativeと称することもある。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "因果関係\n(causality)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "ワラント（論拠）の１つであり、原因と結果の組み立ての関連性について、その上下や強弱のあり方をいう。\n"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "インパクト〔深刻性〕\n(impact)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "メリット（またはデメリット）の大きさを示す定量的・定性的な基準のこと。\n具体的には、インパクトは「質」×「量」×「発生確率」という公式で示すことができる。\n証拠資料（エビデンス）を用いて、客観的に論証していく必要がある。\n（例）論題「日本は首都機能を移転すべし」\nメリット：「直下型地震による被害を軽減できる」\n質　　　　⇒「命を落とす、けがをする」\n量　　　　⇒「どのぐらいの人数が？」\n発生確率　⇒「直下型地震が起きる確率はどのぐらいか？」"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "インパクト・ターン\n(impact turn)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "ターンアラウンド(turn around)には、論理のつながりをターンするリンク・ターン(link turn)と、インパクトの価値をターンするインパクト・ターン(impact turn)の2種類がある。\nインパクト・ターンとは、あるインパクト(significance/impact)の価値(value)を「良い」ものから「悪い」ものへとひっくり返してしまうこと。詳しくは、『初心者のためのディベートQ&A』を参照のこと。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "隠喩法\n(metaphors)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "推論の際、論理の実証をするために複雑な論点をわかりやすくするための論法の１つ。これは聴衆にとってよりなじみ深い考えとの類似性を指摘・説明するやり方。\n別に直喩法(similes)とも呼ぶ。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "迂回議論\n(circumvention)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "肯定側のプランが実施されたとしても、その効果を帳消しにしてしまうような行動がとられる、という議論である。迂回議論でカギになるのは、そうした行動をとろうとする人物の十分な動機(motive)と具体的な方法(means)が明示できるかどうかである。\n具体的には、引用文献である『英語ディベート　理論と実践』を参照のこと。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "裏付け\n(backing)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "論拠（ワラント）のための信頼するに足る典拠をいう。ワラントの多くに一般的原理や普遍的原理があるが、その“原理”などをより強固にする裏付けの説明がこれにあたる。\n"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "エビデンス\n(evidence)"
+            },
+            {
+                "from": "gpt",
+                "value": "証拠資料(data)のこと。主張・議論を支えるもので、事例・統計資料・専門家の意見などがある。証拠資料を引用するときには正しく引用しなくてはならない。証拠資料の捏造はそれだけで負けとなる。\n"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "演繹法\n(deduction)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "一般的原理から特定の結論を導き出す推論の方法である。deductive methodというのが一般的な使い方になる。この反対が「帰納法」といわれる方法であり、特定の問題から一般的な原理を導き出す方法である。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "おそすぎる反論(late response)とはなんですか？"
+            },
+            {
+                "from": "gpt",
+                "value": "「レイトレスポンス」の項と同じ。\n「遅すぎる反駁」ともいう。本来なら第一反駁で行うべき反駁を最終弁論で行うこと。\n「沈黙は同意である」が原則ルール。"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "gpt",
+                "value": ""
+            }
+        ]
     }
 ]
